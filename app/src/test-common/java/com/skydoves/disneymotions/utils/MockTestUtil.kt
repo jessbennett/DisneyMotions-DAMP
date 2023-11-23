@@ -1,1 +1,1 @@
-#include Tests
+#include <R.Test>
